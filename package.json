@@ -1,0 +1,16 @@
+{
+  "name": "countrylogger",
+  "version": "1.0.0",
+  "description": "Normalizes Country Names",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
